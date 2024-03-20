@@ -1,7 +1,7 @@
  <h1 align="center">Hello! 😁</h1>
  <br>
  <br>
- <p align="center">My name is Lázaro. I'm 39 years old, I'm Carioca (as people born in Rio de Janeiro, like me, call it). I am a technology lover and am in the process of a career transition. Studying to become a Full Stack developer at DevClub and seeking to be well prepared to meet market demands. Willing to learn and contribute in the best way possible. Let's connect!</p>
+ <p align="center">Lázaro here. I'm 39 years old and I'm Carioca (as people born in Rio de Janeiro, like me, call it). I am a technology lover and am in the process of a career transition. Studying to become a Full Stack developer at DevClub and seeking to be well prepared to meet market demands. Willing to learn and contribute in the best way possible. Let's connect!</p>
 <br>
 <h2>I am currently learning and applying technologies such as:</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" /> 
